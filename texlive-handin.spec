@@ -1,6 +1,6 @@
 Name:		texlive-handin
 Version:	48255
-Release:	1
+Release:	2
 Summary:	Light weight template for creating school submissions using LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/handin
