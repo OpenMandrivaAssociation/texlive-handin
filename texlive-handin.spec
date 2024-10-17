@@ -3,7 +3,7 @@ Version:	48255
 Release:	2
 Summary:	Light weight template for creating school submissions using LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/handin
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/handin
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/handin.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/handin.doc.r%{version}.tar.xz
